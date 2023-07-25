@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007116585953",
+    "firebase_url": "https://simental-b97b1-default-rtdb.firebaseio.com",
+    "project_id": "simental-b97b1",
+    "storage_bucket": "simental-b97b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007116585953:android:d6329b8d09dadfee8ee0a0",
+        "android_client_info": {
+          "package_name": "com.marqumil.simental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007116585953-grnnrlseaj04h812brcta5c8nm5rusor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marqumil.simental",
+            "certificate_hash": "26c0fd7df5827e7ed61601861eb3a31991a7debb"
+          }
+        },
+        {
+          "client_id": "1007116585953-kbmmkbr9meqipmtflm8bmdg47ubs00eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwHTeQKs6bRvb0FfDjP4pOPDUJ2_IDd1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007116585953-97985bsg3k089fkm5ehrp1a21btsqrns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
